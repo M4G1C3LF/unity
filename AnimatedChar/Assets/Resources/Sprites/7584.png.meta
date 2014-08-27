@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 7f1eb5c36d09bf94fa03c12620e9e18b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: 7584_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2872
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2872
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2869
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2869
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2869
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2869
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2869
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_12
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2869
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_13
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2869
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_14
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_15
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_16
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_17
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_18
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_19
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_20
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2873
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 7584_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2674
+        width: 57
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

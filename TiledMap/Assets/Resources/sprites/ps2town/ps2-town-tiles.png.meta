@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: fe4c1fdab62e2c64bbcb94db0304cadc
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ps2-town-tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 374
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_43
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_45
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_46
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_47
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_54
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_55
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 137
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_63
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_69
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_70
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_71
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_73
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_75
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_76
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_77
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_79
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_84
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_85
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_86
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_87
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: ps2-town-tiles_92
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

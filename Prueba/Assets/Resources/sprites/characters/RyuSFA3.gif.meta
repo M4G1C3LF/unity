@@ -1,0 +1,2434 @@
+fileFormatVersion: 2
+guid: b4bca9a362b250f4d8e05a69b91c7243
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: RyuSFA3_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3387
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3387
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3387
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 3387
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3387
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3387
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3387
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3386
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3273
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3273
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3273
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3273
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3273
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3273
+        width: 66
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_14
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3273
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3163
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3163
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3163
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3164
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_19
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 3164
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3164
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3054
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3055
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3054
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3053
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 3053
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_26
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3054
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2946
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2925
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2945
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2961
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2961
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_32
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2944
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_33
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2925
+        width: 62
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2826
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2826
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_36
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2810
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2824
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_38
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2848
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_39
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2834
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_40
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2837
+        width: 115
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2691
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2697
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_43
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2686
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2700
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_45
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2700
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_46
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2700
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_47
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2700
+        width: 107
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_48
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2577
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_49
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2577
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_50
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2578
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2579
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2579
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_53
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2579
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2463
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2463
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2463
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2464
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_58
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2464
+        width: 101
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2463
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_60
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2463
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2353
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_62
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2354
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2353
+        width: 118
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_64
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2352
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2353
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_66
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2351
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_67
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2237
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_68
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2238
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_69
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2237
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_70
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2259
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_71
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2257
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_72
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2256
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_73
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2141
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2137
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_75
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2139
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2138
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2151
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_78
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2145
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_79
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2146
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2045
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2046
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_82
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2049
+        width: 119
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_83
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2047
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2048
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_85
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2046
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_86
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2046
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1913
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_88
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1916
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_89
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1917
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_90
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1916
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_91
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1916
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_92
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1915
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_93
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1915
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_94
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1807
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_95
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1807
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_96
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1807
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_97
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1806
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_98
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1806
+        width: 114
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_99
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1702
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_100
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1702
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_101
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1702
+        width: 111
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_102
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1702
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_103
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1702
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1592
+        width: 115
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_105
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1666
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_106
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1592
+        width: 117
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_107
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1591
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_108
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1592
+        width: 144
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_109
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1463
+        width: 71
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_110
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1482
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_111
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1496
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_112
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1470
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_113
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1467
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_114
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1469
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_115
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1335
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_116
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1333
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_117
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1334
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_118
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1335
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_119
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1340
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_120
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1331
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_121
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1331
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_122
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1328
+        width: 62
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_123
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1191
+        width: 55
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_124
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1191
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_125
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1191
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_126
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1191
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_127
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1191
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_128
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1193
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_129
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1192
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_130
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1088
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_131
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1088
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_132
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1090
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_133
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1090
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_134
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1088
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_135
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1090
+        width: 124
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_136
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 977
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_137
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 976
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_138
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 975
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_139
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 978
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_140
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 979
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_141
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 990
+        width: 120
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_142
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 874
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_143
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 887
+        width: 120
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_144
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 868
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_145
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 870
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_146
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 884
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_147
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 869
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_148
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 757
+        width: 122
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_149
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 780
+        width: 125
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_150
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 758
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_151
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 741
+        width: 51
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_152
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 775
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_153
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 646
+        width: 124
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_154
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 640
+        width: 123
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_155
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 639
+        width: 133
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_156
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 638
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_157
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 637
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_158
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 514
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_159
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 514
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_160
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 514
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_161
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 515
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_162
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 515
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_163
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 515
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_164
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 515
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_165
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 515
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_166
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 401
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_167
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 401
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_168
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 402
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_169
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 403
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_170
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 352
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_171
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 378
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_172
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 356
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_173
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 361
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_174
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 347
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_175
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 353
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_176
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 360
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_177
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 360
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_178
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 372
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_179
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 366
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_180
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 364
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_181
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 359
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_182
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 357
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_183
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 359
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_184
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 361
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_185
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 356
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_186
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 357
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_187
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 324
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_188
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 332
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_189
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 335
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_190
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 313
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_191
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 290
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_192
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 286
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_193
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 294
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_194
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 327
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_195
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 309
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_196
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 290
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_197
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 301
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_198
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 314
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_199
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_200
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 301
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_201
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 300
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_202
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 310
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_203
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 308
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_204
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 304
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_205
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 301
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_206
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 297
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_207
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 288
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_208
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 297
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_209
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 294
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_210
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 288
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_211
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 279
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_212
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_213
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 281
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_214
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 281
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_215
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 209
+        width: 146
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_216
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 258
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_217
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 241
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_218
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 241
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_219
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 226
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_220
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 233
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_221
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 245
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_222
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 243
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_223
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 238
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_224
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 240
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_225
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 235
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_226
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 236
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_227
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 164
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_228
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 172
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_229
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 200
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_230
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 208
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_231
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 208
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_232
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 186
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_233
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 168
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_234
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 203
+        width: 9
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_235
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 185
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_236
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 163
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_237
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 178
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_238
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 190
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_239
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 191
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_240
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 177
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_241
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 186
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_242
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 184
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_243
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 173
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_244
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_245
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 177
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_246
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 173
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_247
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 164
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_248
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 173
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_249
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 170
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_250
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 164
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_251
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 152
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_252
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 160
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_253
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 157
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_254
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 154
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_255
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 82
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_256
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 90
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_257
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 120
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_258
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 82
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_259
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 90
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_260
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 93
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_261
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 88
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_262
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 79
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_263
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 17
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RyuSFA3_264
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 26
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
